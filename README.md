@@ -279,7 +279,7 @@ However, when we use the `===` operator (Strict equality operator), both value _
 
 ---
 
-###### 8. What's the output?
+###### 8.<mark> What's the output?</mark>
 
 ```javascript
 class Chameleon {
