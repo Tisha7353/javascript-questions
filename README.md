@@ -2124,7 +2124,7 @@ The `Labrador` class receives two arguments, `name` since it extends `Dog`, and 
 
 ---
 
-###### 67. What's the output?
+###### 67.<mark> What's the output?
 
 ```javascript
 // index.js
@@ -2156,7 +2156,7 @@ This is a difference between `require()` in CommonJS and `import`! With `require
 
 ---
 
-###### 68. What's the output?
+###### 68.<mark> What's the output?
 
 ```javascript
 console.log(Number(2) === Number(2));
@@ -2536,7 +2536,7 @@ The third time, we pass `5 * 2` to the function which gets evaluated to `10`. Th
 
 ---
 
-###### 79. What is the output?
+###### 79. <mark> What is the output?
 
 ```javascript
 const myLifeSummedUp = ['☕', '💻', '🍷', '🍫'];
@@ -2921,7 +2921,7 @@ Calling a function constructor with `new` results in the creation of an instance
 
 ---
 
-###### 91. What's the output?
+###### 91.<mark> What's the output?
 
 ```javascript
 let newList = [1, 2, 3].push(4);
@@ -3016,7 +3016,7 @@ The second subarray is `[ "age", 21 ]`, with `x` equal to `"age"`, and `y` equal
 
 ---
 
-###### 94. What's the output?
+###### 94.<mark> What's the output?
 
 ```javascript
 function getItems(fruitList, ...args, favoriteFruit) {
